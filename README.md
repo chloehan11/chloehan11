@@ -1,4 +1,10 @@
-## Hi there 👋
+## Chloe Han
+
+## Courses
+
+- CSC 101 **Introduction to Computing**
+
+- DAT 101 **Introduction to Data Analytics**
 
 <!--
 **chloehan11/chloehan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
