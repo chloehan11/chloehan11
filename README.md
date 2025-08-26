@@ -8,7 +8,7 @@
 
 ## My Favorites
 
-- Movie: Project X
+- Movie: Project X or Eternal Sunshine of the Spotless Mind
 
 - Soccer Club: FC Barcelona
 
