@@ -1,6 +1,6 @@
 ## Hi, my name is Chloe Han 
 
-I am currently a ** Data Science student at Berry College**. 
+I am currently a **Data Science student at Berry College**. 
 
 ## About Me
 - 😄 Pronouns: she/her
