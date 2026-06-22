@@ -1,16 +1,10 @@
-## Chloe Han ⭐️🐐
+## Hi, my name is Chloe Han 
 
-## Courses
+I am currently a ** Data Science student at Berry College**. 
 
-- CSC 101 **Introduction to Computing**
-
-- DAT 101 **Introduction to Data Analytics**
-
-## My Favorites
-
-- Movie: Project X or Eternal Sunshine of the Spotless Mind
-
-- Soccer Club: FC Barcelona
+## About Me
+- 😄 Pronouns: she/her
+- 📫 How to reach me: chloehan14@gmail.com or www.linkedin.com/in/chloe-han-549253382 
 
 <!--
 **chloehan11/chloehan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
